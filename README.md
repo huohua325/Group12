@@ -1,6 +1,6 @@
 # Group 12
 
-## Promo Video:
+## Promo Video
 
 ## PowerPoint Presentation 
 
