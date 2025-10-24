@@ -1,0 +1,15 @@
+../Core/Src/hardware/radar.c:33:9:Radar_Init	2
+../Core/Src/hardware/radar.c:55:19:Radar_StartScan	1
+../Core/Src/hardware/radar.c:64:19:Radar_StopScan	1
+../Core/Src/hardware/radar.c:75:6:Radar_UART_IdleCallback	3
+../Core/Src/hardware/radar.c:94:17:Radar_CalculateCRC16	4
+../Core/Src/hardware/radar.c:177:6:LIDAR_UART_IdleCallback_IRQ	6
+../Core/Src/hardware/radar.c:208:6:LIDAR_Start	1
+../Core/Src/hardware/radar.c:221:6:LIDAR_ProcessPendingData	25
+../Core/Src/hardware/radar.c:371:13:try_emit_rotation_by_angle_wrap	11
+../Core/Src/hardware/radar.c:432:10:LIDAR_GetCompletedRotation	4
+../Core/Src/hardware/radar.c:451:9:LIDAR_IsRotationReady	1
+../Core/Src/hardware/radar.c:465:13:write_u16_le	1
+../Core/Src/hardware/radar.c:471:13:write_u32_le	1
+../Core/Src/hardware/radar.c:485:5:LIDAR_PackAndSendFrame	12
+../Core/Src/hardware/radar.c:563:6:LIDAR_TxCpltCallback	1

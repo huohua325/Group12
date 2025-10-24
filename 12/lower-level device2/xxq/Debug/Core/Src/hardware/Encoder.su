@@ -1,0 +1,2 @@
+../Core/Src/hardware/Encoder.c:23:6:Encoder_Init	88	static
+../Core/Src/hardware/Encoder.c:82:6:Encoder_GetSpeeds	40	static

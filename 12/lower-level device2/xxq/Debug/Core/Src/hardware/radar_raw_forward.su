@@ -1,0 +1,6 @@
+../Core/Src/hardware/radar_raw_forward.c:43:6:Radar_UART_IdleCallback	24	static
+../Core/Src/hardware/radar_raw_forward.c:82:19:Radar_StartScan	24	static
+../Core/Src/hardware/radar_raw_forward.c:93:19:Radar_StopScan	24	static
+../Core/Src/hardware/radar_raw_forward.c:104:10:Radar_ClearReceiveBuffer	16	static
+../Core/Src/hardware/radar_raw_forward.c:138:6:Radar_RawForwardMode	224	static
+../Core/Src/hardware/radar_raw_forward.c:196:9:Radar_RawForward_Init	24	static

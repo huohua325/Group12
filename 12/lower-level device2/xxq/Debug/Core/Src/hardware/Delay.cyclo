@@ -1,0 +1,2 @@
+../Core/Src/hardware/Delay.c:2:6:delay_us	2
+../Core/Src/hardware/Delay.c:11:6:delay_ms	1

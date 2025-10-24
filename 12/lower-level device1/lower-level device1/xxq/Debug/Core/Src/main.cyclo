@@ -1,0 +1,14 @@
+../Core/Src/main.c:211:5:main	11
+../Core/Src/main.c:397:13:Command_ProcessUserInput	13
+../Core/Src/main.c:536:13:Command_ShowSystemInfo	1
+../Core/Src/main.c:565:13:System_StatusUpdate	3
+../Core/Src/main.c:591:13:System_ErrorHandler	1
+../Core/Src/main.c:634:13:send_odometry_data	3
+../Core/Src/main.c:709:5:__io_putchar	1
+../Core/Src/main.c:718:6:SystemClock_Config	3
+../Core/Src/main.c:777:6:HAL_UART_RxCpltCallback	20
+../Core/Src/main.c:894:6:HAL_UART_ErrorCallback	3
+../Core/Src/main.c:947:13:Python_ParseCommand	11
+../Core/Src/main.c:1129:13:UART5_ProcessSensorData	2
+../Core/Src/main.c:1156:13:UART5_ParseDataPacket	6
+../Core/Src/main.c:1205:6:Error_Handler	1
